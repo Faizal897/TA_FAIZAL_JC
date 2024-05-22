@@ -1,7 +1,7 @@
-package com.juaracoding.takelompok1.page;
+package com.juaracoding.takurniawan.page;
 
-import com.juaracoding.takelompok1.connection.Constants;
-import com.juaracoding.takelompok1.connection.DriverSingleton;
+import com.juaracoding.pcmautomation.connection.Constants;
+import com.juaracoding.pcmautomation.connection.DriverSingleton;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
